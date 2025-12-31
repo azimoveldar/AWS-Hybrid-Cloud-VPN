@@ -4,7 +4,7 @@ Security Group Name: VPN-Gateway-SG
 
 <b>Rules:</b>
 
-SSH (22): From 10.1.0.0/16
+SSH (22): From MyIp
 
 UDP 500: From 0.0.0.0/0 (For IKE/VPN tunnel).
 
